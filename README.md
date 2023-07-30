@@ -11,4 +11,4 @@ game-over conditions:
   - - you touch yourself
    
 this game is for educational purposes only.
-I coded it to practice working with classes, inheritance, slicing and many other things.
+I coded it to practice working with classes, inheritance, slicing, etc.
